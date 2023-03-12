@@ -1,4 +1,4 @@
-# Datenschutzerklärung 🔒
+# DHBW CampusApp - Datenschutzerklärung 🔒
 
 **1. Datenschutz auf einen Blick**
 
